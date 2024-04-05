@@ -7,5 +7,5 @@ def change():
     pesos = int(change)
     centavos = int((change - pesos) * 100)      
     print("\nVuelto")
-    print(f"Pesos: {pesos}")
+    print(f"\nPesos: {pesos}")
     print(f"Centavos: {centavos}")
